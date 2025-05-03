@@ -36,12 +36,8 @@ Todo o processo foi baseado nas vídeo-aulas do curso, com foco em:
 - Validação do funcionamento do sistema
 - Testes de conectividade e desempenho
 
-### 4. Documentação Técnica
-- Desenvolvimento deste `README.md`
-- Organização dos arquivos no repositório
-- (Opcional) Inclusão de capturas de tela na pasta `/images`
 
----
+
 
 
 
